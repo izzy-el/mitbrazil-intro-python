@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2021 João Vitor Izael Souza
+Copyright (c) 2021 Izael
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
